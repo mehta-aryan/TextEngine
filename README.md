@@ -60,7 +60,7 @@ g++, clang++, or MSVC compiler
 ### Build & Run
 ```bash
 # Clone the repository
-git clone https://github.com/codev-aryan/TextEngine.git
+git clone https://github.com/mehta-aryan/TextEngine.git
 cd TextEngine
 
 # Compile
@@ -208,10 +208,10 @@ This project is open source and available under the MIT License.
 
 <div align="center">
 
-### Built with ❤️ by [codev-aryan](https://github.com/codev-aryan)
+### Built with ❤️ by [mehta-aryan](https://github.com/mehta-aryan)
 
 ⭐ Star this repo if you find it helpful!
 
-[Report Bug](https://github.com/codev-aryan/TextEngine/issues) • [Request Feature](https://github.com/codev-aryan/TextEngine/issues)
+[Report Bug](https://github.com/mehta-aryan/TextEngine/issues) • [Request Feature](https://github.com/mehta-aryan/TextEngine/issues)
 
 </div>
